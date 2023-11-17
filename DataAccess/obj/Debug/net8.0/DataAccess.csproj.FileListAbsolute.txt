@@ -1,0 +1,14 @@
+D:\pemrograman\dotnet\project-four\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\pemrograman\dotnet\project-four\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\pemrograman\dotnet\project-four\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\pemrograman\dotnet\project-four\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

@@ -1,0 +1,19 @@
+what package should I add ==>
+1. dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.0
+2. dotnet add package Microsoft.EntityFrameworkCore.Tools --version 8.0.0
+3. dotnet add package MySql.Data.EntityFrameworkCore --version 8.0.22
+
+4. dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0
+5. dotnet add package MySql.EntityFrameworkCore
+
+// for create models with existing database
+
+dotnet add package Microsoft.EntityFrameworkCore --version 7.0.2
+dotnet add package Microsoft.EntityFrameworkCore.Tools.DotNet --version 7.0.2
+dotnet add package Pomelo.EntityFrameworkCore.MySql --version 7.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 7.0.2
+
+dotnet ef dbcontext scaffold "server=localhost;user=root;database=go_blog;pwd=" "Pomelo.EntityFrameworkCore.MySql" -o Models
+
+// migration
+dotnet ef migrations add goBlogMigrations
