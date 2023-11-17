@@ -7,6 +7,7 @@ D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.Genera
 D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
 D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
 D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
 D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.dll
 D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 D:\pemrograman\dotnet\project-four\DataAccess\obj\Debug\net8.0\DataAccess.pdb

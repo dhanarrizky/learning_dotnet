@@ -3,6 +3,7 @@ D:\pemrograman\dotnet\project-four\databusiness\obj\Debug\net8.0\DataBusiness.Ge
 D:\pemrograman\dotnet\project-four\databusiness\obj\Debug\net8.0\DataBusiness.AssemblyInfoInputs.cache
 D:\pemrograman\dotnet\project-four\databusiness\obj\Debug\net8.0\DataBusiness.AssemblyInfo.cs
 D:\pemrograman\dotnet\project-four\databusiness\obj\Debug\net8.0\DataBusiness.csproj.CoreCompileInputs.cache
+D:\pemrograman\dotnet\project-four\databusiness\obj\Debug\net8.0\DataBusiness.sourcelink.json
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\DataBusiness.exe
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\DataBusiness.deps.json
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\DataBusiness.runtimeconfig.json
@@ -13,6 +14,7 @@ D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.Entit
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 D:\pemrograman\dotnet\project-four\databusiness\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

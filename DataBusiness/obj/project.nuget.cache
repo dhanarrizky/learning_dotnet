@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rY+g2l7U71xGta6KYYBgjDNpvSAGlvQo2BhC311pP9149hp05o3+Zo8j6fnQrNKdPB5ccGsXZm/mBfRB21BbdQ==",
+  "dgSpecHash": "JhIYWToUOvV7R/pawVKv7FNSeuec9fHBb1t9LSlQZ7r6gWv3Yw3iyHbigBQjFzSKrZlZAygBWJmx7C/lmUFMNQ==",
   "success": true,
   "projectFilePath": "D:\\pemrograman\\dotnet\\project-four\\databusiness\\DataBusiness.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\asusg\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\asusg\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\asusg\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\asusg\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\asusg\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\asusg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\asusg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
