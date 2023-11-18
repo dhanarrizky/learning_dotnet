@@ -25,6 +25,50 @@ namespace DataBusiness
             return _dbContext.Users.FirstOrDefault(u => u.Id == id)??
                 throw new NullReferenceException($"User not found in id {id}");
         }
+
+        public User Create(User user)
+        {
+            _dbContext.Users.Add(user);
+            var affectedRows = _dbContext.SaveChanges();
+            if(affectedRows > 0){
+                return user;
+            } else {
+                return null;
+            }
+        }
+
+        public int Update(User user)
+        {
+            _dbContext.Users.Update(user);
+            return _dbContext.SaveChanges();
+        }
+
+        public int Delete(ulong id)
+        {
+            var user = GetById(id);
+            if (user != null) {
+                _dbContext.Users.Remove(user);
+                return _dbContext.SaveChanges();
+            } else {
+                return -1;
+            }
+        }
     }
 }
 
+// public string UpdateUserById(User user)
+// {
+//     _dbContext.Users.Update(user);
+    
+//     // Attempt to save changes
+//     int affectedRows = _dbContext.SaveChanges();
+
+//     if (affectedRows > 0)
+//     {
+//         return "Updated user has been successfully";
+//     }
+//     else
+//     {
+//         return "No changes were made or an error occurred during the update.";
+//     }
+// }
