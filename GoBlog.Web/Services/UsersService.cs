@@ -1,4 +1,5 @@
-﻿namespace GoBlog.Web;
+﻿using DataBusiness;
+namespace GoBlog.Web;
 
 public class UsersService
 {
@@ -33,12 +34,12 @@ public class UsersService
                 Address = u.Address,
                 Role = u.Role
             }
-        ).ToString();
+        ).ToList();
     }
 
     public UserModel GetUserById(ulong id)
     {
-        vst u = _userRepository.GetById(id);
+        var u = _userRepository.GetById(id);
         return new UserModel {
             Id = u.Id,
             CreatedAt = u.CreatedAt,
@@ -58,6 +59,6 @@ public class UsersService
             BirthDate = u.BirthDate,
             Address = u.Address,
             Role = u.Role
-        }
+        };
     }
 }

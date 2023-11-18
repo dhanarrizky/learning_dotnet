@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataBusiness
-build_property.ProjectDir = D:\pemrograman\dotnet\project-four\databusiness\
+build_property.ProjectDir = D:\pemrograman\dotnet\project-four\DataBusiness\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

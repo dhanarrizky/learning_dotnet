@@ -6,10 +6,11 @@ using DataAccess.Models;
 // ======================== for use mysql pomelo and another else
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using Microsoft.EntityFrameworkCore;
+// using Microsoft.EntityFrameworkCore.Relational;
 
 namespace DataAccess;
 
-public class Dependencies
+public static class Dependencies
 {
     public static void ConfigurationDB(IConfiguration configuration, IServiceCollection services){
         services.AddDbContext<GoBlogContext>(optionsBuilder =>

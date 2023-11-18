@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pemrograman\\dotnet\\project-four\\databusiness\\DataBusiness.csproj",
+      "projectUniqueName": "D:\\pemrograman\\dotnet\\project-four\\DataBusiness\\DataBusiness.csproj",
       "projectName": "DataBusiness",
-      "projectPath": "D:\\pemrograman\\dotnet\\project-four\\databusiness\\DataBusiness.csproj",
+      "projectPath": "D:\\pemrograman\\dotnet\\project-four\\DataBusiness\\DataBusiness.csproj",
       "packagesPath": "C:\\Users\\asusg\\.nuget\\packages\\",
-      "outputPath": "D:\\pemrograman\\dotnet\\project-four\\databusiness\\obj\\",
+      "outputPath": "D:\\pemrograman\\dotnet\\project-four\\DataBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asusg\\AppData\\Roaming\\NuGet\\NuGet.Config"

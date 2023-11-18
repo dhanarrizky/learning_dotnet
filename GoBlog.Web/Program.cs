@@ -1,23 +1,20 @@
-using System;
-using System.Collections.Generic;
-
 using DataAccess;
 
 namespace GoBlog.Web;
 public class Program
 {
-    public void Main(string[] args)
+    static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
 
         IServiceCollection services = builder.Services;
-        Dependencies.CinfigurationDB(builder.Configuration,services);
+        Dependencies.ConfigurationDB(builder.Configuration,services);
 
         services.ConfigurationService();
 
         services.AddScoped<UsersService>();
 
-        Services.AddControllersWithViews();
+        services.AddControllersWithViews();
         var app = builder.Build();
 
         app.UseStaticFiles();

@@ -17,4 +17,4 @@ FOR CONFIGURATION
 ---->
 add this package
 - dotnet add package Microsoft.Extensions.Configuration -v 7
--
+- dotnet add package Microsoft.EntityFrameworkCore.Relational -v 7.0.2

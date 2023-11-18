@@ -1,0 +1,15 @@
+﻿@model List<UserModel>
+@{
+    ViewData["Title"] = "Users";
+}
+<h1>@ViewData["Title"]</h1>
+
+<h2>Home Users</h2>
+
+<h5>list data</h5>
+<ul>
+    @foreach(var data in Model)
+    {
+        <li>@data.UserName</li>
+    }
+</ul>

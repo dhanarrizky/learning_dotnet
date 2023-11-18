@@ -1,13 +1,13 @@
-﻿using DataBusiness.Repository;
-using DataBusiness.InterfaceRepository;
-
+﻿using DataBusiness;
+// using Microsoft.Extensions.DependencyInjection;
 
 namespace GoBlog.Web;
 
-public class ConfigurationBusinessService
+public static class ConfigurationBusinessService
 {
     public static IServiceCollection ConfigurationService(this IServiceCollection service)
     {
         service.AddScoped<IUsersRepository,UsersRepository>();
+        return service;
     }
 }
